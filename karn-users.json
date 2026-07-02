@@ -1,0 +1,32 @@
+{
+ "RubenHillier": {
+  "salt": "d4757677882846094b845f2e",
+  "hash": "9cee6ddec4e262764a35e559b5fefdac87a23f67a48e6c796deea4db190dc2a4",
+  "elo": 1001,
+  "wins": 1,
+  "losses": 1,
+  "draws": 0,
+  "games": 2,
+  "created": 1783004231540
+ },
+ "Willymomster": {
+  "salt": "ccfb11b2b012770018aa1a49",
+  "hash": "e1a84e72cd56adee975e8b22c5e70069692b9744d2c5f50ce122935c8043e9af",
+  "elo": 1016,
+  "wins": 1,
+  "losses": 0,
+  "draws": 0,
+  "games": 1,
+  "created": 1783004924686
+ },
+ "CauseShlong": {
+  "salt": "2cbbe12439d509d449ce97a2",
+  "hash": "ada2c6aa14be3f70a64dea6be1863f989023b113c4625ee97c3a10dc1292b195",
+  "elo": 983,
+  "wins": 0,
+  "losses": 1,
+  "draws": 0,
+  "games": 1,
+  "created": 1783005251249
+ }
+}

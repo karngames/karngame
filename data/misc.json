@@ -1,0 +1,283 @@
+{
+ "feedback": [
+  {
+   "id": 6,
+   "from": "Willymonster",
+   "text": "i ate the cow poo",
+   "ts": 1783019859525
+  },
+  {
+   "id": 1,
+   "from": "RubenTheGaul",
+   "text": "Hi, just wanted to say this is cool.\n\nThanks",
+   "ts": 1783011671689
+  }
+ ],
+ "recov": {
+  "0AC7BD06": {
+   "user": "Willymonster",
+   "by": "RubenHillier",
+   "exp": 1783013592708
+  },
+  "3903F8B5": {
+   "user": "Willymonster",
+   "by": "auto-email",
+   "exp": 1783018642276
+  },
+  "82E0CC98": {
+   "user": "Willymonster",
+   "by": "RubenHillier",
+   "exp": 1783018667935
+  },
+  "51A4D208": {
+   "user": "Willymonster",
+   "by": "RubenHillier",
+   "exp": 1783020291533
+  },
+  "C383FBFA": {
+   "user": "Willymonster",
+   "by": "auto-email",
+   "exp": 1783022995837
+  },
+  "F2ACA1DD": {
+   "user": "Willymonster",
+   "by": "auto-email",
+   "exp": 1783022998595
+  },
+  "2777ED1F": {
+   "user": "Willymonster",
+   "by": "auto-email",
+   "exp": 1783022999054
+  },
+  "8B62FAA6": {
+   "user": "Willymonster",
+   "by": "auto-email",
+   "exp": 1783022999327
+  },
+  "F61AC569": {
+   "user": "Willymonster",
+   "by": "auto-email",
+   "exp": 1783022999520
+  },
+  "0C258ED0": {
+   "user": "Willymonster",
+   "by": "auto-email",
+   "exp": 1783023004561
+  },
+  "B8BD3945": {
+   "user": "Willymonster",
+   "by": "auto-email",
+   "exp": 1783023004708
+  },
+  "4CD41BF9": {
+   "user": "Willymonster",
+   "by": "auto-email",
+   "exp": 1783023104904
+  },
+  "BA52A8C8": {
+   "user": "Willymonster",
+   "by": "auto-email",
+   "exp": 1783028130782
+  },
+  "194C25A3": {
+   "user": "Willymonster",
+   "by": "auto-email",
+   "exp": 1783028132115
+  }
+ },
+ "fseq": 11,
+ "support": [
+  {
+   "id": 10,
+   "user": "Willymonster",
+   "ts": 1783026330780,
+   "done": false
+  },
+  {
+   "id": 8,
+   "user": "Willymonster",
+   "ts": 1783021304903,
+   "done": false
+  },
+  {
+   "id": 7,
+   "user": "Willymonster",
+   "ts": 1783021195837,
+   "done": true
+  },
+  {
+   "id": 5,
+   "user": "Willymonster",
+   "ts": 1783019790375,
+   "done": true
+  },
+  {
+   "id": 3,
+   "user": "Willymonster",
+   "ts": 1783016842275,
+   "done": true
+  }
+ ],
+ "smtp": {
+  "host": "smtp.gmail.com",
+  "port": 465,
+  "user": "karnsupport@karngame.com",
+  "pass": "lczulwirrtacmwtb",
+  "from": "karnsupport@karngame.com"
+ },
+ "tickets": [
+  {
+   "id": 9,
+   "to": "Willymonster",
+   "from": "support",
+   "subject": "Support request from Willymonster",
+   "ts": 1783026330780,
+   "status": "open",
+   "key": "fec14c22d0574040a775a788665216db",
+   "messages": [
+    {
+     "by": "Willymonster",
+     "text": "getting unbanned lil nah",
+     "ts": 1783026330780
+    },
+    {
+     "by": "Willymonster",
+     "text": "getting unbanned lil nah",
+     "ts": 1783026332114
+    },
+    {
+     "by": "Willymonster",
+     "text": "let me in lil bro",
+     "ts": 1783026396650
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "to": "Willymonster",
+   "from": "RubenHillier",
+   "subject": "Account termination",
+   "body": "If you repeat your conduct you will not be here no more",
+   "ts": 1783018373290,
+   "status": "open",
+   "messages": [
+    {
+     "by": "RubenHillier",
+     "text": "If you repeat your conduct you will not be here no more",
+     "ts": 1783018373290
+    },
+    {
+     "by": "RubenHillier",
+     "text": "What you gona do",
+     "ts": 1783018874272
+    },
+    {
+     "by": "RubenHillier",
+     "text": "hi",
+     "ts": 1783019735423
+    },
+    {
+     "by": "RubenHillier",
+     "text": "hi",
+     "ts": 1783020130731
+    },
+    {
+     "by": "Willymonster",
+     "text": "willy",
+     "ts": 1783020501279
+    },
+    {
+     "by": "RubenHillier",
+     "text": "what, that is it, your done",
+     "ts": 1783021103373
+    },
+    {
+     "by": "Willymonster",
+     "text": "nig",
+     "ts": 1783021153563
+    }
+   ],
+   "closedBy": "RubenHillier",
+   "key": "5328c32d2bde62e6ee5f3a4ab74d7a0e"
+  }
+ ],
+ "balance": {
+  "bases": {
+   "L": {
+    "spd": 3,
+    "hp": 1,
+    "ap": 1
+   },
+   "M": {
+    "spd": 2,
+    "hp": 2,
+    "ap": 2
+   },
+   "H": {
+    "spd": 1,
+    "hp": 3,
+    "ap": 3
+   }
+  },
+  "guns": {
+   "sg": {
+    "name": "Small Gun",
+    "ap": 1,
+    "rng": 1,
+    "dmg": 1,
+    "arc": 1
+   },
+   "bg": {
+    "name": "Big Gun",
+    "ap": 2,
+    "rng": 2,
+    "dmg": 2,
+    "arc": 1
+   },
+   "sn": {
+    "name": "Sniper",
+    "ap": 1,
+    "rng": 3,
+    "dmg": 1,
+    "arc": 0,
+    "light": 1
+   },
+   "ds": {
+    "name": "Double Sniper",
+    "ap": 1,
+    "rng": 5,
+    "dmg": 2,
+    "arc": 0,
+    "light": 1,
+    "lvl": 2
+   },
+   "dg": {
+    "name": "Dirt Gun",
+    "ap": 2,
+    "rng": 1,
+    "dmg": 4,
+    "arc": 1,
+    "heavy": 1,
+    "lvl": 2
+   }
+  },
+  "rules": {
+   "actions": 3,
+   "perPiece": 2,
+   "armySize": 8,
+   "maxPerType": 4,
+   "snHeavyBonus": 1,
+   "dgAhead": 4,
+   "eloK": 32,
+   "drawRound": 150
+  }
+ },
+ "balV": 6,
+ "pages": {
+  "custom": [],
+  "extends": {
+   "rules": [],
+   "play": []
+  }
+ }
+}

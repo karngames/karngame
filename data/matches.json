@@ -1,0 +1,2652 @@
+{
+ "45005": {
+  "id": "45005",
+  "host": "RubenHillier",
+  "guest": "Willymonster",
+  "mode": "setup",
+  "mid": {
+   "cols": [
+    2,
+    6,
+    7
+   ],
+   "flip": true
+  },
+  "events": [
+   {
+    "n": 1,
+    "by": 0,
+    "type": "setup",
+    "data": {
+     "walls": [
+      "1,3",
+      "2,3",
+      "6,3",
+      "6,4",
+      "5,4",
+      "1,4",
+      "2,5",
+      "4,5",
+      "7,5",
+      "0,5"
+     ],
+     "army": [
+      {
+       "base": "H",
+       "gun": "bg",
+       "armor": 1
+      },
+      {
+       "base": "H",
+       "gun": "bg",
+       "armor": 1
+      },
+      {
+       "base": "M",
+       "gun": "sg",
+       "armor": 1
+      },
+      {
+       "base": "M",
+       "gun": "sg",
+       "armor": 1
+      },
+      {
+       "base": "M",
+       "gun": "sg",
+       "armor": 1
+      },
+      {
+       "base": "L",
+       "gun": "sn",
+       "armor": 0
+      },
+      {
+       "base": "L",
+       "gun": "sn",
+       "armor": 0
+      },
+      {
+       "base": "L",
+       "gun": "sg",
+       "armor": 0
+      }
+     ],
+     "units": [
+      {
+       "x": 1,
+       "y": 5
+      },
+      {
+       "x": 6,
+       "y": 5
+      },
+      {
+       "x": 3,
+       "y": 6
+      },
+      {
+       "x": 5,
+       "y": 6
+      },
+      {
+       "x": 3,
+       "y": 5
+      },
+      {
+       "x": 6,
+       "y": 6
+      },
+      {
+       "x": 1,
+       "y": 6
+      },
+      {
+       "x": 4,
+       "y": 6
+      }
+     ]
+    }
+   },
+   {
+    "n": 2,
+    "by": 1,
+    "type": "setup",
+    "data": {
+     "walls": [
+      "2,2",
+      "5,2",
+      "1,1",
+      "6,1"
+     ],
+     "army": [
+      {
+       "base": "H",
+       "gun": "bg",
+       "armor": 1
+      },
+      {
+       "base": "H",
+       "gun": "bg",
+       "armor": 1
+      },
+      {
+       "base": "H",
+       "gun": "sg",
+       "armor": 2,
+       "boost": false
+      },
+      {
+       "base": "M",
+       "gun": "sg",
+       "armor": 1
+      },
+      {
+       "base": "M",
+       "gun": "sg",
+       "armor": 1
+      },
+      {
+       "base": "L",
+       "gun": "sn",
+       "armor": 0
+      },
+      {
+       "base": "L",
+       "gun": null,
+       "armor": 1,
+       "boost": false
+      },
+      {
+       "base": "L",
+       "gun": "sg",
+       "armor": 0
+      }
+     ],
+     "units": [
+      {
+       "x": 3,
+       "y": 2
+      },
+      {
+       "x": 4,
+       "y": 2
+      },
+      {
+       "x": 3,
+       "y": 1
+      },
+      {
+       "x": 2,
+       "y": 1
+      },
+      {
+       "x": 5,
+       "y": 1
+      },
+      {
+       "x": 0,
+       "y": 0
+      },
+      {
+       "x": 0,
+       "y": 1
+      },
+      {
+       "x": 7,
+       "y": 1
+      }
+     ]
+    }
+   },
+   {
+    "n": 3,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 2,
+     "dir": 1
+    }
+   },
+   {
+    "n": 4,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 2,
+     "x": 7,
+     "y": 4,
+     "steps": 1
+    }
+   },
+   {
+    "n": 5,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 1,
+     "dir": 7
+    }
+   },
+   {
+    "n": 6,
+    "by": 0,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 7,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 17,
+     "x": 0,
+     "y": 2,
+     "steps": 1
+    }
+   },
+   {
+    "n": 8,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 17,
+     "dir": 2
+    }
+   },
+   {
+    "n": 9,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 12,
+     "x": 4,
+     "y": 3,
+     "steps": 1
+    }
+   },
+   {
+    "n": 10,
+    "by": 1,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 11,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 2,
+     "dir": 0
+    }
+   },
+   {
+    "n": 12,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 2,
+     "x": 7,
+     "y": 3,
+     "steps": 1
+    }
+   },
+   {
+    "n": 13,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 1,
+     "x": 0,
+     "y": 4,
+     "steps": 1
+    }
+   },
+   {
+    "n": 14,
+    "by": 0,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 15,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 17,
+     "x": 1,
+     "y": 2,
+     "steps": 1
+    }
+   },
+   {
+    "n": 16,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 16,
+     "x": 0,
+     "y": 1,
+     "steps": 1
+    }
+   },
+   {
+    "n": 17,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 16,
+     "tid": 1,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 18,
+    "by": 1,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 19,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 2,
+     "tid": 18,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 20,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 2,
+     "x": 7,
+     "y": 2,
+     "steps": 1
+    }
+   },
+   {
+    "n": 21,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 1,
+     "dir": 0
+    }
+   },
+   {
+    "n": 22,
+    "by": 0,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 23,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 16,
+     "tid": 1,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 24,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 11,
+     "x": 3,
+     "y": 3,
+     "steps": 1
+    }
+   },
+   {
+    "n": 25,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 11,
+     "tid": 5,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 26,
+    "by": 1,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 27,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 2,
+     "x": 7,
+     "y": 1,
+     "steps": 1
+    }
+   },
+   {
+    "n": 28,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 1,
+     "x": 0,
+     "y": 3,
+     "steps": 1
+    }
+   },
+   {
+    "n": 29,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 1,
+     "tid": 16,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 30,
+    "by": 0,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 31,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 11,
+     "tid": 5,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 32,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 15,
+     "dir": 1
+    }
+   },
+   {
+    "n": 33,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 15,
+     "dir": 0
+    }
+   },
+   {
+    "n": 34,
+    "by": 1,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 35,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 2,
+     "x": 7,
+     "y": 0,
+     "steps": 1
+    }
+   },
+   {
+    "n": 36,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 5,
+     "x": 3,
+     "y": 4,
+     "steps": 1
+    }
+   },
+   {
+    "n": 37,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 5,
+     "tid": 11,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 38,
+    "by": 0,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 39,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 11,
+     "tid": 5,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 40,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 13,
+     "dir": 1
+    }
+   },
+   {
+    "n": 41,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 13,
+     "x": 4,
+     "y": 0,
+     "steps": 1
+    }
+   },
+   {
+    "n": 42,
+    "by": 1,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 43,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 6,
+     "dir": 4
+    }
+   },
+   {
+    "n": 44,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 6,
+     "x": 6,
+     "y": 7,
+     "steps": 1
+    }
+   },
+   {
+    "n": 45,
+    "by": 0,
+    "type": "refit",
+    "data": {
+     "pid": 6,
+     "gun": "ds",
+     "armor": 0,
+     "boost": false
+    }
+   },
+   {
+    "n": 46,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 2,
+     "dir": 4
+    }
+   },
+   {
+    "n": 47,
+    "by": 0,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 48,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 12,
+     "dir": 5
+    }
+   },
+   {
+    "n": 49,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 12,
+     "x": 3,
+     "y": 4,
+     "steps": 1
+    }
+   },
+   {
+    "n": 50,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 11,
+     "dir": 5
+    }
+   },
+   {
+    "n": 51,
+    "by": 1,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 52,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 1,
+     "tid": 17,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 53,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 1,
+     "x": 0,
+     "y": 2,
+     "steps": 1
+    }
+   },
+   {
+    "n": 54,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 2,
+     "dir": 6
+    }
+   },
+   {
+    "n": 55,
+    "by": 0,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 56,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 12,
+     "tid": 3,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 57,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 12,
+     "dir": 4
+    }
+   },
+   {
+    "n": 58,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 11,
+     "x": 2,
+     "y": 4,
+     "steps": 1
+    }
+   },
+   {
+    "n": 59,
+    "by": 1,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 60,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 1,
+     "tid": 17,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 61,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 1,
+     "x": 0,
+     "y": 1,
+     "steps": 1
+    }
+   },
+   {
+    "n": 62,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 2,
+     "x": 6,
+     "y": 0,
+     "steps": 1
+    }
+   },
+   {
+    "n": 63,
+    "by": 0,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 64,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 13,
+     "dir": 2
+    }
+   },
+   {
+    "n": 65,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 13,
+     "x": 5,
+     "y": 0,
+     "steps": 1
+    }
+   },
+   {
+    "n": 66,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 11,
+     "tid": 8,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 67,
+    "by": 1,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 68,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 2,
+     "dir": 3
+    }
+   },
+   {
+    "n": 69,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 2,
+     "x": 7,
+     "y": 1,
+     "steps": 1
+    }
+   },
+   {
+    "n": 70,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 1,
+     "x": 0,
+     "y": 0,
+     "steps": 1
+    }
+   },
+   {
+    "n": 71,
+    "by": 0,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 72,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 12,
+     "tid": 3,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 73,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 14,
+     "dir": 7
+    }
+   },
+   {
+    "n": 74,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 14,
+     "x": 1,
+     "y": 0,
+     "steps": 1
+    }
+   },
+   {
+    "n": 75,
+    "by": 1,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 76,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 1,
+     "tid": 14,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 77,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 1,
+     "dir": 4
+    }
+   },
+   {
+    "n": 78,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 6,
+     "dir": 6
+    }
+   },
+   {
+    "n": 79,
+    "by": 0,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 80,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 14,
+     "tid": 1,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 81,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 12,
+     "tid": 3,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 82,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 12,
+     "x": 3,
+     "y": 5,
+     "steps": 1
+    }
+   },
+   {
+    "n": 83,
+    "by": 1,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 84,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 1,
+     "tid": 14,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 85,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 6,
+     "x": 5,
+     "y": 7,
+     "steps": 1
+    }
+   },
+   {
+    "n": 86,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 6,
+     "dir": 7
+    }
+   },
+   {
+    "n": 87,
+    "by": 0,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 88,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 14,
+     "tid": 1,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 89,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 12,
+     "tid": 6,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 90,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 15,
+     "dir": 3
+    }
+   },
+   {
+    "n": 91,
+    "by": 1,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 92,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 7,
+     "dir": 4
+    }
+   },
+   {
+    "n": 93,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 7,
+     "dir": 5
+    }
+   },
+   {
+    "n": 94,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 2,
+     "dir": 4
+    }
+   },
+   {
+    "n": 95,
+    "by": 0,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 96,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 11,
+     "x": 1,
+     "y": 5,
+     "steps": 1
+    }
+   },
+   {
+    "n": 97,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 11,
+     "tid": 7,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 98,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 12,
+     "x": 3,
+     "y": 6,
+     "steps": 1
+    }
+   },
+   {
+    "n": 99,
+    "by": 1,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 100,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 4,
+     "dir": 6
+    }
+   },
+   {
+    "n": 101,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 4,
+     "x": 4,
+     "y": 6,
+     "steps": 1
+    }
+   },
+   {
+    "n": 102,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 2,
+     "x": 7,
+     "y": 2,
+     "steps": 1
+    }
+   },
+   {
+    "n": 103,
+    "by": 0,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 104,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 12,
+     "tid": 4,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 105,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 12,
+     "x": 3,
+     "y": 7,
+     "steps": 1
+    }
+   },
+   {
+    "n": 106,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 11,
+     "dir": 3
+    }
+   },
+   {
+    "n": 107,
+    "by": 1,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 108,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 4,
+     "tid": 12,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 109,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 2,
+     "x": 7,
+     "y": 3,
+     "steps": 1
+    }
+   },
+   {
+    "n": 110,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 4,
+     "dir": 5
+    }
+   },
+   {
+    "n": 111,
+    "by": 0,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 112,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 11,
+     "x": 2,
+     "y": 6,
+     "steps": 1
+    }
+   },
+   {
+    "n": 113,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 11,
+     "tid": 4,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 114,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 12,
+     "dir": 2
+    }
+   },
+   {
+    "n": 115,
+    "by": 1,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 116,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 4,
+     "tid": 12,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 117,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 4,
+     "dir": 1
+    }
+   },
+   {
+    "n": 118,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 2,
+     "x": 7,
+     "y": 4,
+     "steps": 1
+    }
+   },
+   {
+    "n": 119,
+    "by": 0,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 120,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 12,
+     "tid": 4,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 121,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 12,
+     "x": 4,
+     "y": 7,
+     "steps": 1
+    }
+   },
+   {
+    "n": 122,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 11,
+     "x": 3,
+     "y": 7,
+     "steps": 1
+    }
+   }
+  ],
+  "result": {
+   "winner": 1,
+   "resigned": null,
+   "delta": {
+    "RubenHillier": -15,
+    "Willymomster": 15
+   }
+  },
+  "started": 1783006802693,
+  "ended": 1783007746566
+ },
+ "80198": {
+  "id": "80198",
+  "host": "Willymonster",
+  "guest": "RubenHillier",
+  "mode": "quick",
+  "mid": {
+   "cols": [
+    1,
+    2,
+    4
+   ],
+   "flip": false
+  },
+  "events": [
+   {
+    "n": 1,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 2,
+     "dir": 7
+    }
+   },
+   {
+    "n": 2,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 2,
+     "dir": 1
+    }
+   },
+   {
+    "n": 3,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 8,
+     "x": 0,
+     "y": 4,
+     "steps": 2
+    }
+   },
+   {
+    "n": 4,
+    "by": 0,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 5,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 16,
+     "x": 0,
+     "y": 3,
+     "steps": 2
+    }
+   },
+   {
+    "n": 6,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 16,
+     "tid": 8,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 7,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 12,
+     "dir": 3
+    }
+   },
+   {
+    "n": 8,
+    "by": 1,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 9,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 6,
+     "x": 0,
+     "y": 6,
+     "steps": 1
+    }
+   },
+   {
+    "n": 10,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 6,
+     "tid": 16,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 11,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 2,
+     "x": 5,
+     "y": 4,
+     "steps": 1
+    }
+   },
+   {
+    "n": 12,
+    "by": 0,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 13,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 10,
+     "dir": 3
+    }
+   },
+   {
+    "n": 14,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 14,
+     "x": 3,
+     "y": 1,
+     "steps": 1
+    }
+   },
+   {
+    "n": 15,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 14,
+     "dir": 3
+    }
+   },
+   {
+    "n": 16,
+    "by": 1,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 17,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 1,
+     "x": 3,
+     "y": 4,
+     "steps": 1
+    }
+   },
+   {
+    "n": 18,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 1,
+     "tid": 9,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 19,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 3,
+     "dir": 1
+    }
+   },
+   {
+    "n": 20,
+    "by": 0,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 21,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 14,
+     "dir": 4
+    }
+   },
+   {
+    "n": 22,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 14,
+     "tid": 1,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 23,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 9,
+     "tid": 1,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 24,
+    "by": 1,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 25,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 1,
+     "tid": 9,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 26,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 1,
+     "dir": 4
+    }
+   },
+   {
+    "n": 27,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 3,
+     "x": 3,
+     "y": 5,
+     "steps": 1
+    }
+   },
+   {
+    "n": 28,
+    "by": 0,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 29,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 9,
+     "tid": 1,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 30,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 14,
+     "tid": 1,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 31,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 9,
+     "x": 3,
+     "y": 3,
+     "steps": 1
+    }
+   },
+   {
+    "n": 32,
+    "by": 1,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 33,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 2,
+     "x": 6,
+     "y": 3,
+     "steps": 1
+    }
+   },
+   {
+    "n": 34,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 2,
+     "dir": 6
+    }
+   },
+   {
+    "n": 35,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 3,
+     "dir": 2
+    }
+   },
+   {
+    "n": 36,
+    "by": 0,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 37,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 9,
+     "tid": 3,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 38,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 14,
+     "x": 3,
+     "y": 2,
+     "steps": 1
+    }
+   },
+   {
+    "n": 39,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 14,
+     "tid": 3,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 40,
+    "by": 1,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 41,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 3,
+     "x": 4,
+     "y": 5,
+     "steps": 1
+    }
+   },
+   {
+    "n": 42,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 7,
+     "x": 7,
+     "y": 6,
+     "steps": 1
+    }
+   },
+   {
+    "n": 43,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 7,
+     "dir": 7
+    }
+   },
+   {
+    "n": 44,
+    "by": 0,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 45,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 9,
+     "x": 3,
+     "y": 4,
+     "steps": 1
+    }
+   },
+   {
+    "n": 46,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 9,
+     "tid": 3,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 47,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 14,
+     "x": 3,
+     "y": 3,
+     "steps": 1
+    }
+   },
+   {
+    "n": 48,
+    "by": 1,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 49,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 2,
+     "x": 5,
+     "y": 3,
+     "steps": 1
+    }
+   },
+   {
+    "n": 50,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 2,
+     "tid": 10,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 51,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 7,
+     "x": 6,
+     "y": 5,
+     "steps": 1
+    }
+   },
+   {
+    "n": 52,
+    "by": 0,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 53,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 10,
+     "tid": 2,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 54,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 12,
+     "x": 7,
+     "y": 3,
+     "steps": 2
+    }
+   },
+   {
+    "n": 55,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 12,
+     "dir": 4
+    }
+   },
+   {
+    "n": 56,
+    "by": 1,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 57,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 2,
+     "tid": 10,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 58,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 7,
+     "x": 5,
+     "y": 4,
+     "steps": 1
+    }
+   },
+   {
+    "n": 59,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 7,
+     "dir": 2
+    }
+   },
+   {
+    "n": 60,
+    "by": 0,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 61,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 12,
+     "dir": 6
+    }
+   },
+   {
+    "n": 62,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 12,
+     "x": 6,
+     "y": 3,
+     "steps": 1
+    }
+   },
+   {
+    "n": 63,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 10,
+     "tid": 2,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 64,
+    "by": 1,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 65,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 7,
+     "dir": 1
+    }
+   },
+   {
+    "n": 66,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 7,
+     "tid": 12,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 67,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 2,
+     "tid": 10,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 68,
+    "by": 0,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 69,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 12,
+     "tid": 7,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 70,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 10,
+     "tid": 2,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 71,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 9,
+     "tid": 4,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 72,
+    "by": 1,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 73,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 2,
+     "tid": 10,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 74,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 2,
+     "dir": 4
+    }
+   },
+   {
+    "n": 75,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 4,
+     "dir": 1
+    }
+   },
+   {
+    "n": 76,
+    "by": 0,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 77,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 12,
+     "tid": 2,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 78,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 9,
+     "tid": 4,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 79,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 13,
+     "x": 4,
+     "y": 2,
+     "steps": 1
+    }
+   },
+   {
+    "n": 80,
+    "by": 1,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 81,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 4,
+     "x": 7,
+     "y": 4,
+     "steps": 2
+    }
+   },
+   {
+    "n": 82,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 4,
+     "tid": 12,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 83,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 6,
+     "x": 0,
+     "y": 5,
+     "steps": 1
+    }
+   },
+   {
+    "n": 84,
+    "by": 0,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 85,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 12,
+     "dir": 3
+    }
+   },
+   {
+    "n": 86,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 12,
+     "tid": 4,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 87,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 13,
+     "dir": 3
+    }
+   },
+   {
+    "n": 88,
+    "by": 1,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 89,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 5,
+     "x": 4,
+     "y": 5,
+     "steps": 1
+    }
+   },
+   {
+    "n": 90,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 5,
+     "tid": 9,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 91,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 6,
+     "x": 0,
+     "y": 4,
+     "steps": 1
+    }
+   },
+   {
+    "n": 92,
+    "by": 0,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 93,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 9,
+     "tid": 5,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 94,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 12,
+     "dir": 5
+    }
+   },
+   {
+    "n": 95,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 12,
+     "x": 5,
+     "y": 4,
+     "steps": 1
+    }
+   },
+   {
+    "n": 96,
+    "by": 1,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 97,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 5,
+     "tid": 9,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 98,
+    "by": 0,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 99,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 12,
+     "tid": 5,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 100,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 13,
+     "x": 6,
+     "y": 4,
+     "steps": 2
+    }
+   },
+   {
+    "n": 101,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 13,
+     "dir": 4
+    }
+   },
+   {
+    "n": 102,
+    "by": 1,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 103,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 6,
+     "x": 0,
+     "y": 3,
+     "steps": 1
+    }
+   },
+   {
+    "n": 104,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 6,
+     "tid": 15,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 105,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 5,
+     "tid": 12,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 106,
+    "by": 0,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 107,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 13,
+     "x": 6,
+     "y": 5,
+     "steps": 1
+    }
+   },
+   {
+    "n": 108,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 13,
+     "dir": 5
+    }
+   },
+   {
+    "n": 109,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 11,
+     "dir": 5
+    }
+   },
+   {
+    "n": 110,
+    "by": 1,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 111,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 5,
+     "dir": 7
+    }
+   },
+   {
+    "n": 112,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 6,
+     "x": 0,
+     "y": 2,
+     "steps": 1
+    }
+   },
+   {
+    "n": 113,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 6,
+     "dir": 1
+    }
+   },
+   {
+    "n": 114,
+    "by": 0,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 115,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 14,
+     "dir": 0
+    }
+   },
+   {
+    "n": 116,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 14,
+     "x": 3,
+     "y": 2,
+     "steps": 1
+    }
+   },
+   {
+    "n": 117,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 13,
+     "x": 4,
+     "y": 7,
+     "steps": 2
+    }
+   },
+   {
+    "n": 118,
+    "by": 1,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 119,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 6,
+     "dir": 0
+    }
+   },
+   {
+    "n": 120,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 6,
+     "x": 0,
+     "y": 1,
+     "steps": 1
+    }
+   },
+   {
+    "n": 121,
+    "by": 0,
+    "type": "action",
+    "data": {
+     "type": "move",
+     "pid": 5,
+     "x": 3,
+     "y": 4,
+     "steps": 1
+    }
+   },
+   {
+    "n": 122,
+    "by": 0,
+    "type": "endTurn",
+    "data": {}
+   },
+   {
+    "n": 123,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 14,
+     "dir": 4
+    }
+   },
+   {
+    "n": 124,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "shoot",
+     "pid": 14,
+     "tid": 5,
+     "mode": "hp"
+    }
+   },
+   {
+    "n": 125,
+    "by": 1,
+    "type": "action",
+    "data": {
+     "type": "rotate",
+     "pid": 11,
+     "dir": 7
+    }
+   },
+   {
+    "n": 126,
+    "by": 1,
+    "type": "endTurn",
+    "data": {}
+   }
+  ],
+  "result": {
+   "winner": 1,
+   "resigned": 0,
+   "delta": {
+    "Willymomster": -18,
+    "RubenHillier": 18
+   }
+  },
+  "started": 1783008135711,
+  "ended": 1783008930702
+ }
+}

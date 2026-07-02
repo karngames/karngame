@@ -1,0 +1,551 @@
+{
+ "RubenHillier": {
+  "salt": "d4757677882846094b845f2e",
+  "hash": "9cee6ddec4e262764a35e559b5fefdac87a23f67a48e6c796deea4db190dc2a4",
+  "elo": 1004,
+  "wins": 2,
+  "losses": 2,
+  "draws": 0,
+  "games": 4,
+  "created": 1783004231540,
+  "friends": [],
+  "reqIn": [],
+  "reqOut": [
+   "CauseShlong"
+  ],
+  "blocked": [
+   "Willymonster"
+  ],
+  "notifs": [
+   {
+    "id": 3,
+    "ts": 1783026396650,
+    "read": false,
+    "type": "info",
+    "text": "Willymonster replied to ticket #9 (\"Support request from Willymonster\")",
+    "from": null,
+    "data": null
+   },
+   {
+    "id": 2,
+    "ts": 1783026332115,
+    "read": false,
+    "type": "info",
+    "text": "🛟 Support ticket #9 from Willymonster: \"getting unbanned lil nah\"",
+    "from": null,
+    "data": null
+   },
+   {
+    "id": 1,
+    "ts": 1783026330782,
+    "read": false,
+    "type": "info",
+    "text": "🛟 Support ticket #9 from Willymonster: \"getting unbanned lil nah\"",
+    "from": null,
+    "data": null
+   },
+   {
+    "id": 12,
+    "ts": 1783021304904,
+    "read": true,
+    "type": "info",
+    "text": "🛟 Support request from Willymonster (forgot password)",
+    "from": null,
+    "data": null
+   },
+   {
+    "id": 11,
+    "ts": 1783021261779,
+    "read": true,
+    "type": "info",
+    "text": "Account recovery completed for Willymonster",
+    "from": null,
+    "data": null
+   },
+   {
+    "id": 10,
+    "ts": 1783021204707,
+    "read": true,
+    "type": "info",
+    "text": "🛟 Support request from Willymonster (forgot password)",
+    "from": null,
+    "data": null
+   },
+   {
+    "id": 9,
+    "ts": 1783021204561,
+    "read": true,
+    "type": "info",
+    "text": "🛟 Support request from Willymonster (forgot password)",
+    "from": null,
+    "data": null
+   },
+   {
+    "id": 8,
+    "ts": 1783021199520,
+    "read": true,
+    "type": "info",
+    "text": "🛟 Support request from Willymonster (forgot password)",
+    "from": null,
+    "data": null
+   },
+   {
+    "id": 7,
+    "ts": 1783021199327,
+    "read": true,
+    "type": "info",
+    "text": "🛟 Support request from Willymonster (forgot password)",
+    "from": null,
+    "data": null
+   },
+   {
+    "id": 6,
+    "ts": 1783021199054,
+    "read": true,
+    "type": "info",
+    "text": "🛟 Support request from Willymonster (forgot password)",
+    "from": null,
+    "data": null
+   },
+   {
+    "id": 5,
+    "ts": 1783021198595,
+    "read": true,
+    "type": "info",
+    "text": "🛟 Support request from Willymonster (forgot password)",
+    "from": null,
+    "data": null
+   },
+   {
+    "id": 4,
+    "ts": 1783021195837,
+    "read": true,
+    "type": "info",
+    "text": "🛟 Support request from Willymonster (forgot password)",
+    "from": null,
+    "data": null
+   },
+   {
+    "id": 3,
+    "ts": 1783021153563,
+    "read": true,
+    "type": "ticket",
+    "text": "Willymonster replied to ticket #4 (\"Account termination\")",
+    "from": "Willymonster",
+    "data": {
+     "tid": 4
+    }
+   },
+   {
+    "id": 1,
+    "ts": 1783020501279,
+    "read": true,
+    "type": "ticket",
+    "text": "Willymonster replied to ticket #4 (\"Account termination\")",
+    "from": "Willymonster",
+    "data": {
+     "tid": 4
+    }
+   },
+   {
+    "id": 3,
+    "ts": 1783019859525,
+    "read": true,
+    "type": "info",
+    "text": "📬 New feedback from Willymonster: \"i ate the cow poo\"",
+    "from": null,
+    "data": null
+   },
+   {
+    "id": 2,
+    "ts": 1783019834858,
+    "read": true,
+    "type": "info",
+    "text": "Account recovery completed for Willymonster",
+    "from": null,
+    "data": null
+   },
+   {
+    "id": 1,
+    "ts": 1783019790375,
+    "read": true,
+    "type": "info",
+    "text": "🛟 Support request from Willymonster (forgot password)",
+    "from": null,
+    "data": null
+   },
+   {
+    "id": 4,
+    "ts": 1783016983349,
+    "read": true,
+    "type": "info",
+    "text": "Account recovery completed for Willymonster",
+    "from": null,
+    "data": null
+   },
+   {
+    "id": 3,
+    "ts": 1783016895539,
+    "read": true,
+    "type": "info",
+    "text": "🛟 Support request from Willymonster (forgot password)",
+    "from": null,
+    "data": null
+   },
+   {
+    "id": 2,
+    "ts": 1783016867935,
+    "read": true,
+    "type": "info",
+    "text": "🔑 RubenHillier created a recovery code for Willymonster",
+    "from": null,
+    "data": null
+   },
+   {
+    "id": 1,
+    "ts": 1783016842276,
+    "read": true,
+    "type": "info",
+    "text": "🛟 Support request from Willymonster (forgot password)",
+    "from": null,
+    "data": null
+   },
+   {
+    "id": 5,
+    "ts": 1783011971837,
+    "read": true,
+    "type": "info",
+    "text": "📬 New feedback from Willymonster: \"dih 🥀\"",
+    "from": null,
+    "data": null
+   },
+   {
+    "id": 4,
+    "ts": 1783011937169,
+    "read": true,
+    "type": "info",
+    "text": "Account recovery completed for Willymonster",
+    "from": null,
+    "data": null
+   },
+   {
+    "id": 3,
+    "ts": 1783011831809,
+    "read": true,
+    "type": "info",
+    "text": "🔑 RubenHillier created a recovery code for Willymomster",
+    "from": null,
+    "data": null
+   },
+   {
+    "id": 2,
+    "ts": 1783011792708,
+    "read": true,
+    "type": "info",
+    "text": "🔑 RubenHillier created a recovery code for Willymomster",
+    "from": null,
+    "data": null
+   },
+   {
+    "id": 1,
+    "ts": 1783011671689,
+    "read": true,
+    "type": "info",
+    "text": "📬 New feedback from RubenTheGaul: \"Hi, just wanted to say this is cool.\n\nThanks\"",
+    "from": null,
+    "data": null
+   },
+   {
+    "id": 3,
+    "ts": 1783008930702,
+    "read": true,
+    "type": "result",
+    "text": "You defeated Willymomster — they resigned (+18 Elo → 1004)",
+    "from": "Willymomster",
+    "data": {
+     "win": true,
+     "matchId": "80198"
+    }
+   },
+   {
+    "id": 1,
+    "ts": 1783008097479,
+    "read": true,
+    "type": "info",
+    "text": "Willymomster cancelled the match during setup",
+    "from": null,
+    "data": null
+   },
+   {
+    "id": 1,
+    "ts": 1783007746567,
+    "text": "💀 You lost to Willymomster (-15 Elo → 986)",
+    "read": true,
+    "type": "info",
+    "from": null,
+    "data": null
+   },
+   {
+    "id": 3,
+    "ts": 1783006611268,
+    "text": "👥 Willymomster accepted your friend request",
+    "read": true,
+    "type": "info",
+    "from": null,
+    "data": null
+   }
+  ],
+  "matches": [
+   "80198",
+   "45005"
+  ],
+  "private": false,
+  "admin": true,
+  "staff": false,
+  "banned": null,
+  "flagged": null,
+  "email": "rubenmedland7@gmail.com",
+  "emailPrefs": {
+   "friendReq": true
+  }
+ },
+ "CauseShlong": {
+  "salt": "2cbbe12439d509d449ce97a2",
+  "hash": "ada2c6aa14be3f70a64dea6be1863f989023b113c4625ee97c3a10dc1292b195",
+  "elo": 983,
+  "wins": 0,
+  "losses": 1,
+  "draws": 0,
+  "games": 1,
+  "created": 1783005251249,
+  "friends": [],
+  "reqIn": [
+   "RubenHillier"
+  ],
+  "reqOut": [],
+  "blocked": [],
+  "notifs": [
+   {
+    "id": 1,
+    "ts": 1783006428541,
+    "text": "👥 RubenHillier sent you a friend request",
+    "read": false,
+    "type": "info",
+    "from": null,
+    "data": null
+   }
+  ],
+  "matches": [],
+  "private": false,
+  "admin": false,
+  "staff": false,
+  "banned": null,
+  "flagged": null,
+  "emailPrefs": {
+   "friendReq": true
+  }
+ },
+ "RubenTheGaul": {
+  "salt": "61198092df6a1062191aa9bd",
+  "hash": "e6242d241a259ac4610753d68b8ffe8e9db61da13cc2ca9c6ae89e4a916ab917",
+  "elo": 1000,
+  "wins": 0,
+  "losses": 0,
+  "draws": 0,
+  "games": 0,
+  "created": 1783009220963,
+  "admin": false,
+  "private": false,
+  "friends": [],
+  "reqIn": [
+   "Willymonster"
+  ],
+  "reqOut": [],
+  "blocked": [],
+  "notifs": [
+   {
+    "id": 13,
+    "ts": 1783021390852,
+    "read": false,
+    "type": "friendreq",
+    "text": "Willymonster sent you a friend request",
+    "from": "Willymonster",
+    "data": null
+   }
+  ],
+  "matches": [],
+  "staff": false,
+  "banned": null,
+  "flagged": null,
+  "emailPrefs": {
+   "friendReq": true
+  }
+ },
+ "Willymonster": {
+  "salt": "9154d4e4a43fc4c526010e32",
+  "hash": "51a99f6bbec6b546bdee5308a80cc255b2199894b873d882220535294b1be6f1",
+  "elo": 1013,
+  "wins": 2,
+  "losses": 1,
+  "draws": 0,
+  "games": 3,
+  "created": 1783004924686,
+  "friends": [],
+  "reqIn": [],
+  "reqOut": [
+   "RubenTheGaul"
+  ],
+  "blocked": [],
+  "notifs": [
+   {
+    "id": 2,
+    "ts": 1783021103373,
+    "read": true,
+    "type": "ticket",
+    "text": "RubenHillier replied to ticket #4 (\"Account termination\")",
+    "from": "RubenHillier",
+    "data": {
+     "tid": 4
+    }
+   },
+   {
+    "id": 6,
+    "ts": 1783020130731,
+    "read": true,
+    "type": "ticket",
+    "text": "RubenHillier replied to ticket #4 (\"Account termination\")",
+    "from": "RubenHillier",
+    "data": {
+     "tid": 4
+    }
+   },
+   {
+    "id": 5,
+    "ts": 1783019969147,
+    "read": true,
+    "type": "ticket",
+    "text": "Ticket #4 (\"Account termination\") was reopened by RubenHillier",
+    "from": "RubenHillier",
+    "data": {
+     "tid": 4
+    }
+   },
+   {
+    "id": 4,
+    "ts": 1783019967250,
+    "read": true,
+    "type": "ticket",
+    "text": "Ticket #4 (\"Account termination\") was closed by RubenHillier",
+    "from": "RubenHillier",
+    "data": {
+     "tid": 4
+    }
+   },
+   {
+    "id": 1,
+    "ts": 1783019735423,
+    "read": true,
+    "type": "ticket",
+    "text": "RubenHillier replied to ticket #4 (\"Account termination\")",
+    "from": "RubenHillier",
+    "data": {
+     "tid": 4
+    }
+   },
+   {
+    "id": 1,
+    "ts": 1783018874273,
+    "read": true,
+    "type": "ticket",
+    "text": "RubenHillier replied to ticket #4 (\"Account termination\")",
+    "from": "RubenHillier",
+    "data": {
+     "tid": 4
+    }
+   },
+   {
+    "id": 1,
+    "ts": 1783018373291,
+    "read": true,
+    "type": "ticket",
+    "text": "Ticket #4 — Account termination",
+    "from": "RubenHillier",
+    "data": {
+     "tid": 4
+    }
+   },
+   {
+    "id": 2,
+    "ts": 1783008930702,
+    "read": true,
+    "type": "result",
+    "text": "You lost to RubenHillier — you resigned (-18 Elo → 1013)",
+    "from": "RubenHillier",
+    "data": {
+     "win": false,
+     "matchId": "80198"
+    }
+   },
+   {
+    "id": 2,
+    "ts": 1783007746567,
+    "text": "🏆 You defeated RubenHillier (+15 Elo → 1031)",
+    "read": true,
+    "type": "info",
+    "from": null,
+    "data": null
+   },
+   {
+    "id": 2,
+    "ts": 1783006606745,
+    "text": "👥 RubenHillier sent you a friend request",
+    "read": true,
+    "type": "info",
+    "from": null,
+    "data": null
+   }
+  ],
+  "matches": [
+   "80198",
+   "45005"
+  ],
+  "private": false,
+  "admin": false,
+  "staff": false,
+  "banned": null,
+  "flagged": null,
+  "email": "xaviethilliet@gmail.com",
+  "emailPrefs": {
+   "friendReq": true
+  }
+ },
+ "Fad_dass_nick_eh": {
+  "salt": "fff378fc2bc9b73769d23889",
+  "hash": "f84b095d0012bbf269173d7236373b5804b890c741578da8345815125fff780c",
+  "elo": 1000,
+  "wins": 0,
+  "losses": 0,
+  "draws": 0,
+  "games": 0,
+  "created": 1783019325365,
+  "admin": false,
+  "staff": false,
+  "private": false,
+  "banned": {
+   "by": "RubenHillier",
+   "reason": "That's not a very smart user name now is it",
+   "ts": 1783019367733
+  },
+  "flagged": null,
+  "email": null,
+  "emailPrefs": {
+   "friendReq": true
+  },
+  "friends": [],
+  "reqIn": [],
+  "reqOut": [],
+  "blocked": [],
+  "notifs": [],
+  "matches": []
+ }
+}
